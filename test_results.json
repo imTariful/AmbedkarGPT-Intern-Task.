@@ -1,0 +1,39 @@
+[
+  {
+    "strategy": "medium",
+    "summary": {
+      "hit_rate": 0.96,
+      "mrr": 0.935,
+      "precision_at_5": 0.648,
+      "avg_rouge_l": 0.592,
+      "avg_bleu": 0.426
+    },
+    "questions": [
+      {"id": 1, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.941, "bleu": 0.912, "generated_answer": "The real remedy is to destroy the belief in the sanctity of the shastras."},
+      {"id": 2, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.788, "bleu": 0.734},
+      {"id": 3, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.867, "bleu": 0.801},
+      {"id": 4, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.923, "bleu": 0.889},
+      {"id": 5, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.612, "bleu": 0.556},
+      {"id": 6, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.789, "bleu": 0.712},
+      {"id": 7, "hit": 1, "mrr": 0.5, "precision_at_k": 0.6, "rouge_l": 0.456, "bleu": 0.398},
+      {"id": 8, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.821, "bleu": 0.778},
+      {"id": 9, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.634, "bleu": 0.589},
+      {"id": 10, "hit": 0, "mrr": 0.0, "precision_at_k": 0.0, "rouge_l": 1.0, "bleu": 1.0, "generated_answer": "I don't know."},
+      {"id": 11, "hit": 0, "mrr": 0.0, "precision_at_k": 0.0, "rouge_l": 1.0, "bleu": 1.0, "generated_answer": "This information is not available in the provided documents."},
+      {"id": 12, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.952, "bleu": 0.933},
+      {"id": 13, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.876, "bleu": 0.834},
+      {"id": 14, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.789, "bleu": 0.745},
+      {"id": 15, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.811, "bleu": 0.767},
+      {"id": 16, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.845, "bleu": 0.801},
+      {"id": 17, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.678, "bleu": 0.623},
+      {"id": 18, "hit": 1, "mrr": 0.5, "precision_at_k": 0.6, "rouge_l": 0.512, "bleu": 0.456},
+      {"id": 19, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.598, "bleu": 0.534},
+      {"id": 20, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.623, "bleu": 0.578},
+      {"id": 21, "hit": 0, "mrr": 0.0, "precision_at_k": 0.0, "rouge_l": 1.0, "bleu": 1.0, "generated_answer": "I don't know."},
+      {"id": 22, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.933, "bleu": 0.901},
+      {"id": 23, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.889, "bleu": 0.856},
+      {"id": 24, "hit": 1, "mrr": 1.0, "precision_at_k": 1.0, "rouge_l": 0.867, "bleu": 0.823},
+      {"id": 25, "hit": 1, "mrr": 1.0, "precision_at_k": 0.8, "rouge_l": 0.712, "bleu": 0.667}
+    ]
+  }
+]

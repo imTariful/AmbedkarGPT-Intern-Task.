@@ -1,4 +1,3 @@
-
 **A Fully Local, Zero-Cost RAG Q&A System + Comprehensive Evaluation Framework**
 
 > Built for the xAI Internship Selection Process – Phase 1 & Phase 2 (Completed)
@@ -16,8 +15,8 @@ Everything runs locally — no API keys, no internet required after initial setu
 ## Repository Structure (expected)
 ```
 AmbedkarGPT-Intern-Task/
-├── code_task1.py                  # Phase 1 – Interactive Q&A system
-├── task_code2.py            # Phase 2 – Full evaluation framework (optional)
+├── main.py                  # Phase 1 – Interactive Q&A system
+├── evaluation.py            # Phase 2 – Full evaluation framework (optional)
 ├── corpus/                  # 6 source documents (optional)
 ├── test_dataset.json        # Golden Q&A pairs (optional)
 ├── test_results.json        # Generated evaluation output (optional)
